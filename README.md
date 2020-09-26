@@ -1,3 +1,4 @@
+# Automation Bot
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
