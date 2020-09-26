@@ -65,12 +65,17 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+<!--
 * [Roadmap](#roadmap)
+-->
 * [Contributing](#contributing)
+<!--
 * [License](#license)
+-->
 * [Contact](#contact)
+<!--
 * [Acknowledgements](#acknowledgements)
-
+-->
 
 
 <!-- ABOUT THE PROJECT -->
@@ -121,7 +126,7 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![image](file:///Users/boone/Documents/Pictures/Screenshots/Screen%20Shot%202020-09-26%20at%201.02.31%20PM.png)
+See automation.py to see the implementation. 
 
 <!-- ROADMAP -->
 <!--
