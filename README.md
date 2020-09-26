@@ -109,7 +109,7 @@ Here are some required packages to import.
 ```sh
 pip install selenium
 ```
-* Chrome Web-Driver
+* Chrome Web-Driver:
 [https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 ### Installation
